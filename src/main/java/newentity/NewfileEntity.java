@@ -54,4 +54,3 @@ public void setEmail(String email) {
 }
     
 }
-}
