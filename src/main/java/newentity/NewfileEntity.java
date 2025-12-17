@@ -18,4 +18,5 @@ public class NewfileEntity {
     @NotBlank(message = "no blank allowed")
     @Email(message = "invalid format")
     private String email;
+    
 }
